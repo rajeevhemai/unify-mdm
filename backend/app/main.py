@@ -2,10 +2,8 @@
 Unify - Master Data Management
 Main FastAPI application entry point.
 """
-
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-
 from app.core.config import settings
 from app.core.database import init_db
 from app.api import upload, matching, golden_records, dashboard
@@ -36,15 +34,6 @@ app.include_router(golden_records.router)
 def on_startup():
     """Initialize database on startup."""
     init_db()
-
-
---@app.get("/")
---def root():
- --   return {
-   --     "app": settings.APP_NAME,
-     --   "version": settings.APP_VERSION,
-       -- "docs": "/docs",
-   -- }
 
 
 @app.get("/health")
