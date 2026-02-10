@@ -38,13 +38,13 @@ def on_startup():
     init_db()
 
 
-@app.get("/")
-def root():
-    return {
-        "app": settings.APP_NAME,
-        "version": settings.APP_VERSION,
-        "docs": "/docs",
-    }
+--@app.get("/")
+--def root():
+ --   return {
+   --     "app": settings.APP_NAME,
+     --   "version": settings.APP_VERSION,
+       -- "docs": "/docs",
+   -- }
 
 
 @app.get("/health")
