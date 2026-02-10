@@ -1,0 +1,11 @@
+company_name,first_name,last_name,email,phone,address_line1,city,state,postal_code,country,tax_id,website
+AlphaWorks GmbH,Klaus,Mueller,k.mueller@alphaworks.de,+49-30-555-0808,Friedrichstrasse 100,Berlin,Berlin,10117,Germany,DE123456789,https://alphaworks.de
+DataFlow Systems,Maria,Garcia,maria.garcia@dataflow.com,+1-555-0404,789 Tech Park Blvd,Austin,TX,73301,USA,45-6789012,https://dataflow.com
+Global Solutions BV,Erik,van der Berg,erik@globalsolutions.nl,+31-20-555-0303,Keizersgracht 123,Amsterdam,North Holland,1015 AA,Netherlands,NL123456789B01,https://www.globalsolutions.nl
+Pacific Rim Trading,Yuki,Tanaka,yuki@pacificrim.co.jp,+81-3-555-0909,1-2-3 Shibuya,Tokyo,Tokyo,150-0002,Japan,JP1234567890,https://pacificrim.co.jp
+Bright Industries Ltd,James,Wilson,j.wilson@brightindustries.co.uk,+44-20-555-0606,10 Downing Lane,London,Greater London,EC1A 1BB,United Kingdom,GB123456789,https://www.brightindustries.co.uk
+Summit Partners,Emily,Chen,emily.chen@summitpartners.com,+1-555-0707,300 Summit Avenue,Boston,MA,02108,USA,67-8901234,https://summitpartners.com
+Maple Leaf Services,Claire,Tremblay,claire@mapleleaf.ca,+1-416-555-1010,200 Bay Street,Toronto,ON,M5J 2J5,Canada,CA123456789,https://mapleleaf.ca
+Nordic Consulting AS,Lars,Andersen,lars.andersen@nordic-consulting.no,+47-22-555-0505,Storgata 45,Oslo,Oslo,0155,Norway,NO987654321MVA,https://nordic-consulting.no
+Acme Corporation,John,Smith,john.smith@acme.com,+1-555-0101,123 Main Street,New York,NY,10001,USA,12-3456789,https://www.acme.com
+TechVentures Inc,Sarah,Johnson,s.johnson@techventures.io,+1-555-0202,456 Innovation Drive,San Francisco,CA,94105,USA,98-7654321,https://techventures.io
